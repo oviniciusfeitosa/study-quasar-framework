@@ -1,6 +1,9 @@
 # study-quasar-framework
 Study of Quasar Framework. Focus to generate mobile apps by Vue code.
 
+## Requirements
+- `npm install -g @quasar/cli`
+
 ## References
 
 - [Quasar](https://quasar.dev)
